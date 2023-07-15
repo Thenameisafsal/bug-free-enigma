@@ -11,7 +11,7 @@ I am currently pursuing my B.Tech. Artificial Intelligence and Machine Learning 
 
 
 - 🔭 I’m currently working on this page. 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thenameisafsalahamad)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thenameisafsal)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
