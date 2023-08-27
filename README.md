@@ -8,6 +8,11 @@ I am currently pursuing my B.Tech. Artificial Intelligence and Machine Learning 
 💻 HTML 
 💻 CSS 
 💻 Javascript
+💻 Java
+💻 Android Studio
+💻 Kotlin
+💻 Flutter
+💻 Firebase
 
 
 - 🔭 I’m currently working on this page. 
